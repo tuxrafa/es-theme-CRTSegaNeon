@@ -54,7 +54,7 @@ On Screen help
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <pos>0.54 0.96</pos>
-         <textColor>000000</textColor>
+         <textColor>ffffff</textColor>
          <iconColor>000000</iconColor>
       </helpsystem>
    </view>
@@ -64,7 +64,7 @@ On Screen help
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <pos>1.42 0.96</pos>
-         <textColor>000000</textColor>
+         <textColor>ffffff</textColor>
          <iconColor>000000</iconColor>
       </helpsystem>
    </view>
@@ -76,7 +76,7 @@ On Screen help
    <view name="basic,detailed,video">
       <textlist name="gamelist">
          <zIndex>2</zIndex>
-         <selectorColor>33333300</selectorColor>
+       <selectorColor>33333300</selectorColor>
 	     <selectedColor>000000</selectedColor>
          <pos>0.08 0.2</pos>
          <size>0.3 0.7</size>
